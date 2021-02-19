@@ -23,7 +23,7 @@
 ![Apollo](https://img.shields.io/badge/-Apollo-000)
 ![GraphQL](https://img.shields.io/badge/-Graphql-000?&logo=graphql&logoColor=e535ab)
 ![Socket.io](  https://img.shields.io/badge/Socket.io-000?&logo=socket.io&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=heroku&logoColor=430098)
+![Heroku](https://img.shields.io/badge/Heroku-000?&logo=heroku&logoColor=430098)
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
