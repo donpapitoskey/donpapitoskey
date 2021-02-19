@@ -1,16 +1,37 @@
-### Hi there 👋
+[![Twitter Badge](https://img.shields.io/badge/-@donpapitoskey-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/donpapitoskey)](https://twitter.com/donpapitoskey)  [![Linkedin Badge](https://img.shields.io/badge/-Juan_J._Alarcon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-j-alarcon-c//)](https://www.linkedin.com/in/juan-j-alarcon-c/)  [![Gmail Badge](https://img.shields.io/badge/-alarcon.juan@correounivalle.edu.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alarcon.juan@correounivalle.edu.co)](mailto:alarcon.juan@correounivalle.edu.co)  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<!--
-**donpapitoskey/donpapitoskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![M](https://img.shields.io/badge/-M-000?&logo=Matlab&logoColor=007ACC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Technologies
+
+![Express](https://img.shields.io/badge/Express.js-000)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![ReactNative](https://img.shields.io/badge/-React_Native-000?&logo=React)
+![Redux](https://img.shields.io/badge/Redux-000?&logo=redux&logoColor=593D88)
+![Styled Components](https://img.shields.io/badge/styled--components-000?logo=styled-components&logoColor=DB7093)
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Apollo](https://img.shields.io/badge/-Apollo-000)
+![GraphQL](https://img.shields.io/badge/-Graphql-000?&logo=graphql&logoColor=e535ab)
+![Socket.io](  https://img.shields.io/badge/Socket.io-000?&logo=socket.io&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=heroku&logoColor=430098)
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu&logoColor=dd4814)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=316192)
+
+### <i>About</i>
+
+-  **Learning :** Full-Stack Web Development :zap: | Open-Source :fire:	| Ciber Security | IoT 
+-  **Hobbies :** Books 📕 & Music :headphones:
