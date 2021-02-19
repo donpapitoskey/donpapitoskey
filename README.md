@@ -13,13 +13,13 @@
 
 ### Technologies
 
-![Express](https://img.shields.io/badge/Express.js-000)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![ReactNative](https://img.shields.io/badge/-React_Native-000?&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-000?&logo=redux&logoColor=593D88)
 ![Styled Components](https://img.shields.io/badge/styled--components-000?logo=styled-components&logoColor=DB7093)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000)
 ![Apollo](https://img.shields.io/badge/-Apollo-000)
 ![GraphQL](https://img.shields.io/badge/-Graphql-000?&logo=graphql&logoColor=e535ab)
 ![Socket.io](  https://img.shields.io/badge/Socket.io-000?&logo=socket.io&logoColor=white)
