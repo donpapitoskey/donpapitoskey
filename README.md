@@ -32,5 +32,5 @@
 
 ### <i>About</i>
 
--  **Learning :** Full-Stack Web Development :zap: | Open-Source :fire:	| Ciber Security | IoT 
+-  **Learning :** Full-Stack Web Development :zap: | Open-Source :fire:	| Ciber Security
 -  **Hobbies :** Books 📕 & Music :headphones:
