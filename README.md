@@ -1,4 +1,6 @@
-[![Twitter Badge](https://img.shields.io/badge/-@donpapitoskey-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/donpapitoskey)](https://twitter.com/donpapitoskey)  [![Linkedin Badge](https://img.shields.io/badge/-Juan_J._Alarcon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-j-alarcon-c//)](https://www.linkedin.com/in/juan-j-alarcon-c/)  [![Gmail Badge](https://img.shields.io/badge/-alarcon.juan@correounivalle.edu.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alarcon.juan@correounivalle.edu.co)](mailto:alarcon.juan@correounivalle.edu.co)  
+[![X](https://img.shields.io/badge/@donpapitoskey-%23000000.svg?logo=X&logoColor=white&link=https://x.com/donpapitoskey)](https://x.com/donpapitoskey)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Juan%20J.%20Alarcon-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/juan-j-alarcon-c/)
+[![Outlook](https://img.shields.io/badge/torejose@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:torejose@hotmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Languages
@@ -7,8 +9,6 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![GoLang](https://img.shields.io/badge/-go-000?&logo=go&logoColor=29bebd)
-
 
 ### Technologies
 
